@@ -1,6 +1,6 @@
 # Trabalho-MVP MOBILE DEVELOPMENT
-Integrantes: Rafael Porto de Oliveira 
-Matricula: 06007577 
+Integrantes: Rafael Porto de Oliveira.
+Matricula: 06007577.
 e-mail: rafinhasj0510@gmail.com
 
 Trabalho escolhido: Editora UniFeso.
