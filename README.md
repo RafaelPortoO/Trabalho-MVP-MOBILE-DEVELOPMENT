@@ -1,15 +1,9 @@
 # Trabalho-MVP MOBILE DEVELOPMENT
-Integrantes: Rafael Porto de Oliveira Matricula: 06007577 e-mail: rafinhasj0510@gmail.com
+Integrantes: Rafael Porto de Oliveira 
+Matricula: 06007577 
+e-mail: rafinhasj0510@gmail.com
 
 Trabalho escolhido: Editora UniFeso.
 
-Requisitos funcionais
-
-RF01 - O sistema deve permitir que o administrador cadastre novas publicações, incluindo informações como título, autor, data de publicação, resumo e categorias. 
-RF02 - Deve conter um sistema de Busca Avançada. 2.1 - Deve oferecer aos usuários uma funcionalidade de pesquisa avançada, permitindo a filtragem de publicações por autor, categoria, data de publicação e palavras-chave. 
-RF03 - O sistema deve haver diferentes níveis de acesso, com os administradores tendo permissões adicionais para editar, excluir e gerenciar publicações.
-
-Requisitos nao funcionais
-
-RFN01 - O design da plataforma deve refletir a identidade visual da Editora Unifeso. 
-RFN02 - O sistema deve responder rapidamente para acomodar um grande número de usuários.
+A Editora Unifeso é responsável pela publicação de obras acadêmicas, científicas, técnicas e culturais produzidas pela comunidade acadêmica e por outros autores, contribuindo a promoção do conhecimento e da educação.
+Por isso queremos melhorar o aplicativo para que todos os usuarios possam usar como quiserem tanto na web quanto no mobile. Queremos ter publicações digitais da Editora Unifeso para que não so academicos utilizem, mas tambem idosos, pessoas com deficiencias e tambem pessoas de dificil acesso, por isso queremos testar mais coisas com esse MVP para que possamos trazer atualizações inovadoras e com responsividade para melhorar a utilização do nosso site.
